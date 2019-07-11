@@ -1,0 +1,8 @@
+Under this(.\MarsRover\MarsRover\bin\Debug\netcoreapp2.1) path,
+there are Input.txt and Output.txt files. I wrote the input you gave to this file. When you run application you can see result in Output.txt file.
+
+Assumptions:
+1. If a rover reaches to one coordinate of upper-right coordinates,
+it can't move and has to be remain in its current position. 
+
+2. If there is a rover in position to which it reaches in next step, it can't move and has to remain in its current position.
